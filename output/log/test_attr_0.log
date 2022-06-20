@@ -1,0 +1,5 @@
+>>> Using GPU: 0
+Stage: attr
+Evaluation start...
+Accuracy: 52.8889
+Running time: 20779.846530681574 fps

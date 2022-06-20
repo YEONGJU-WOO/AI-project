@@ -1,0 +1,94 @@
+
+Exercise type prediction result
+Accuracy (mAP): 95.8942
+Time (fps): 94674.29235248723
+
+Exercise attribute prediction result
+Exercise name: 로잉머신
+Accuracy (AP): 79.7526
+Time (fps): 2522.661135606778
+Exercise name: 풀업
+Accuracy (AP): 72.8846
+Time (fps): 938.9652989712762
+Exercise name: 바벨 스티프 데드리프트
+Accuracy (AP): 79.7101
+Time (fps): 124.33901889759845
+Exercise name: 바벨 데드리프트
+Accuracy (AP): 75.322
+Time (fps): 1009.4311990943082
+Exercise name: 스탠딩 사이드 크런치
+Accuracy (AP): 86.5909
+Time (fps): 2193.9221764678273
+Exercise name: 바벨 컬 
+Accuracy (AP): 75.9167
+Time (fps): 2572.6055589427956
+Exercise name: 업라이트로우
+Accuracy (AP): 87.5
+Time (fps): 168.5278317756892
+Exercise name: 사이드 런지
+Accuracy (AP): 73.234
+Time (fps): 2526.8942623374865
+Exercise name: 스탠딩 니업
+Accuracy (AP): 82.8986
+Time (fps): 1585.18953063422
+Exercise name: 케이블 푸시 다운
+Accuracy (AP): 75.4545
+Time (fps): 1100.3134642978882
+Exercise name: 스텝 백워드 다이나믹 런지
+Accuracy (AP): 84.3218
+Time (fps): 1909.3726464604135
+Exercise name: 크로스 런지
+Accuracy (AP): 81.6667
+Time (fps): 131.88295135891263
+Exercise name: 굿모닝
+Accuracy (AP): 79.4444
+Time (fps): 194.8264321419798
+Exercise name: 사이드 레터럴 레이즈
+Accuracy (AP): 80.8842
+Time (fps): 2434.970890386892
+Exercise name: 랫풀 다운
+Accuracy (AP): 80.625
+Time (fps): 1006.5512064730799
+Exercise name: 바벨 로우
+Accuracy (AP): 76.2222
+Time (fps): 2267.9746709815204
+Exercise name: 바벨 런지
+Accuracy (AP): 86.6087
+Time (fps): 2371.805324443734
+Exercise name: 딥스
+Accuracy (AP): 81.7593
+Time (fps): 984.1174249125307
+Exercise name: 버피 테스트
+Accuracy (AP): 71.6044
+Time (fps): 2381.723041701441
+Exercise name: 케이블 크런치
+Accuracy (AP): 72.3077
+Time (fps): 306.3457020689538
+Exercise name: 오버 헤드 프레스
+Accuracy (AP): 83.3696
+Time (fps): 548.6148866622601
+Exercise name: 덤벨 벤트오버 로우
+Accuracy (AP): 78.9647
+Time (fps): 1452.0039921208356
+Exercise name: 행잉 레그 레이즈
+Accuracy (AP): 80.0
+Time (fps): 317.7109363124514
+Exercise name: 스텝 포워드 다이나믹 런지
+Accuracy (AP): 86.3043
+Time (fps): 2689.1691666316583
+Exercise name: 프런트 레이즈
+Accuracy (AP): 91.6667
+Time (fps): 117.77970700507586
+Exercise name: 바벨 스쿼트
+Accuracy (AP): 84.1667
+Time (fps): 668.436520624098
+Exercise name: 덤벨 컬
+Accuracy (AP): 79.3684
+Time (fps): 2425.2645674259174
+Exercise name: 페이스 풀
+Accuracy (AP): 83.7037
+Time (fps): 186.08887664078475
+
+Average of all exercises
+Accuracy (mAP): 80.43758928571428
+Time (fps): 1326.338872192086
